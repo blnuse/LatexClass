@@ -1,0 +1,2 @@
+# LatexClass
+Experimenting with Git.
